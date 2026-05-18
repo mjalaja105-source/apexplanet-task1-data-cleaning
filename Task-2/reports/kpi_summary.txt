@@ -1,0 +1,9 @@
+
+=========================
+KPI SUMMARY
+=========================
+
+Total Sales      : 2297200.86
+Total Profit     : 286397.02
+Total Orders     : 5009
+Average Discount : 0.16

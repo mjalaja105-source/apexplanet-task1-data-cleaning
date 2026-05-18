@@ -1,0 +1,39 @@
+
+
+====================
+Top 5 Sales
+====================
+       Category  Total_Sales
+     Technology  836154.0330
+      Furniture  741999.7953
+Office Supplies  719047.0320
+
+====================
+Profit By Region
+====================
+ Region  Total_Profit
+Central    39706.3625
+   East    91522.7800
+  South    46749.4303
+   West   108418.4489
+
+====================
+Average Discount
+====================
+ Avg_Discount
+     0.156203
+
+====================
+Top Customers
+====================
+     Customer Name  Total_Sales
+       Sean Miller    25043.050
+      Tamara Chand    19052.218
+      Raymond Buch    15117.339
+      Tom Ashbrook    14595.620
+     Adrian Barton    14473.571
+      Ken Lonsdale    14175.229
+      Sanjit Chand    14142.334
+      Hunter Lopez    12873.298
+      Sanjit Engle    12209.438
+Christopher Conant    12129.072

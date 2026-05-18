@@ -1,0 +1,21 @@
+
+=================================
+EDA REPORT
+=================================
+
+1. Dataset contains sales transactions.
+
+2. Highest sales observed in certain categories.
+
+3. Correlation analysis performed on:
+   - Sales
+   - Profit
+   - Discount
+
+4. Multiple visualizations generated.
+
+5. SQL business questions answered.
+
+6. KPI summary created successfully.
+
+Task 2 completed successfully.
